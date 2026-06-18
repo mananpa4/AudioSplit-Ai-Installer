@@ -161,7 +161,7 @@ Automates copying packages from a conda/pip environment into `lib/`:
 ![AudioSplitAI_app](/AudioSplit_AI.png)
 
 This project is an open-source C# desktop front-end.  
-Please consider donating to help pay for hosting and development: paypal.me/makenitso
+Please consider donating to help pay for hosting and development: https://www.paypal.com/donate/?hosted_button_id=DVGCZBQZCAFYU
 
-- Website: https://dowdes.com
-- Older versions: https://dowdes.com
+- Website: https://github.com/mananpa4/AudioSplit-Ai-Installer
+- Older versions: https://makenweb.com/#audiosplitai
